@@ -1,11 +1,13 @@
 # Phantom Reader in Python
 
-This is a Python script to read phantom data
+A Python script for reading Phantom simulation data.
 
-It can read *.ascii files so please use splash to convert first:
+## Usage
 
-    ```bash
-    splash to ascii disc_*
-    ```
+This script can read `.ascii` files. Please convert it first using **Splash**:
+
+```bash
+splash to ascii disc_*
+
 
 Then check the usage.py 

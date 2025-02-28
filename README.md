@@ -4,11 +4,11 @@ A Python script for reading Phantom simulation data.
 
 ## Usage
 
-This script can read `.ascii` files. Please convert it first using **Splash**:
+This script can read `.ascii` files. Please convert it first using `splash`:
 
 ```bash
 splash to ascii disc_*
 ```
 
 
-Then check the usage.py 
+Then check the `usage.py`.
